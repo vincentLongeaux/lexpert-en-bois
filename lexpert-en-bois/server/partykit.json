@@ -1,0 +1,4 @@
+﻿{
+  "name": "lexpert-en-bois-server",
+  "main": "src/server.ts"
+}

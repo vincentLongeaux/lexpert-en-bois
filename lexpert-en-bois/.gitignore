@@ -1,0 +1,13 @@
+﻿# Dépendances et builds
+node_modules/
+dist/
+.partykit/
+
+# Fichiers d'environnement
+.env
+.env.local
+.env.*.local
+
+# Fichiers OS
+.DS_Store
+Thumbs.db
