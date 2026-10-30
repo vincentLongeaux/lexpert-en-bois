@@ -1,0 +1,19 @@
+{
+  "name": "lexpert-en-bois",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev:client": "npm run dev -w client",
+    "dev:server": "npm run dev -w server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "workspaces": [
+    "client",
+    "server"
+  ]
+}

@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "partykit dev",
+    "dev": "npx partykit@latest dev",
     "deploy": "partykit deploy"
   },
   "keywords": [],
@@ -13,6 +13,6 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "partykit": "^0.0.115"
+    "partykit": "^0.0.0"
   }
 }
